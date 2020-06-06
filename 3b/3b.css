@@ -1,0 +1,106 @@
+/*home*/
+#home{
+position: relative;
+width: 1440px;
+height: 1024px;
+background: #FFFFFF;
+}
+
+
+nav{
+    position: absolute;
+    width: 1440px;
+    height: 109px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFEFE;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+#search{
+    position: absolute;
+    width: 866px;
+    height: 58px;
+    left: 226px;
+    top: 25px;
+
+    background: #CECECE;
+    border-radius: 10px;
+}
+::placeholder {
+    position: absolute;
+    width: 310px;
+    height: 42px;
+    left: 258px;
+    top: 33px;
+    font-family: arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 39px;
+
+    color: #FFFFFF;
+  }
+
+#add{
+    position: absolute;
+width: 190px;
+height: 70px;
+left: 1193px;
+top: 19px;
+
+background: #FADC9C;
+border-radius: 10px;
+}
+
+input[value^="ADD"] {
+    position: absolute;
+    width: 136px;
+    height: 32px;
+    left: 1253px;
+    top: 34px;
+    font-family: Open sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px;
+    color: #FFFFFF;
+}
+table{
+position: absolute;
+width: 1232px;
+height: 739px;
+left: 104px;
+top: 231px;
+}
+
+table th{
+    position: absolute;
+    width: 1232px;
+    height: 739px;
+    left: 104px;
+    top: 231px;
+}
+.rectangle-6{
+    position: absolute;
+    width: 1232px;
+    height: 118px;
+    left: 104px;
+    top: 231px;
+
+    background: #FADC9C;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px 20px 0px 0px;
+    }
+table .isi{
+    position: absolute;
+width: 1232px;
+height: 620px;
+left: 104px;
+top: 350px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+border-radius: 0px 0px 20px 20px;
+}
